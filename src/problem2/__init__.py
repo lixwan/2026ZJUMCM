@@ -1,1 +1,1 @@
-"""Problem 2 package placeholder."""
+"""Problem 2 package: drawing simulation and fairness verification."""

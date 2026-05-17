@@ -1,1 +1,4 @@
-# 当前版本只依赖 Python 标准库，无需额外安装第三方包。
+for 2026ZJUMCM/src/problem2/
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
